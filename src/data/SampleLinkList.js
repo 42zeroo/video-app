@@ -30,6 +30,8 @@ export const YoutubeLinks = [
    "https://www.youtube.com/watch?v=dyN3Fl7Sd0g",
    "https://www.youtube.com/watch?v=Q-TuqIHJrX4",
    "https://www.youtube.com/watch?v=1D2lYGey22I",
+   "https://www.youtube.com/watch?v=ulZZN5TYwmI",
+   "https://www.youtube.com/watch?v=Ex3xKeurS4k",
 ]
 export const VimeoLinks = [
    'https://vimeo.com/500584376',
@@ -48,6 +50,15 @@ export const VimeoLinks = [
 ]
 
 export const MixedLinks = [
+   'https://www.youtube.com/watch?v=_V-IU5npVn8',
+   'https://www.youtube.com/watch?v=6k7narNzOdQ',
+   'https://www.youtube.com/watch?v=kfzRXseSBIM',
+   'https://www.youtube.com/watch?v=FaUyq18r_GI',
+   'https://vimeo.com/338893558',
+   'https://vimeo.com/206079850',
+   'https://vimeo.com/261844732',
+   'https://www.youtube.com/watch?v=fzi24Nssiow',
+   'https://www.youtube.com/watch?v=MZ924VGx5n0',
    'https://www.youtube.com/watch?v=cD5TpprcjXA',
    'https://www.youtube.com/watch?v=p5ROVt9lqt4',
    'https://vimeo.com/374770832',

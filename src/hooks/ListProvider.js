@@ -28,7 +28,7 @@ const ListProvider = ({ children }) => {
   const [sortMethod, setSortMethod] = useState("NEWEST_ASC")
 
   const [list, setList] = useState( 
-    JSON.parse(localStorage.getItem('movieList')) === [null] ? [] : JSON.parse(localStorage.getItem('movieList'))
+    JSON.parse(localStorage.getItem('movieList')) === [null] ? [] : JSON.parse(localStorage.getItem('movieList')) ?? []
   );
   const setListAndAddToLocalStorage = (val) => {
     setList(val);

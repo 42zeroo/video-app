@@ -20,6 +20,8 @@ This application demonstrates a video-list application built with [Create React 
 - [x] You can play videos
 - [x] Pagination for list
 - [x] Change list display mode
+- [ ] Possibility to download list item as .mp3
+- [ ] Possibility to download whole list as .mp3 in .rar
 
 ## Prerequisites
 
